@@ -14,18 +14,21 @@
 <div align="center">
   <h2>Philosophie</h2>
   <ul>
-    <li>-Clean code > code rapide</li>
-    <li>-Comprendre avant d’utiliser</li>
-    <li>-Simplicité > complexité</li>
+    <li>Clean code > code rapide</li>
+    <li>Comprendre avant d’utiliser</li>
+    <li>Simplicité > complexité</li>
   </ul>
 </div>
+<br>
+<br>
 
 
 ###  En ce moment
 - Approfondissement python et JS
 - Test Playwright 
 
-
+<br>
+<br>
 
 <div align="center">
 <pre>
