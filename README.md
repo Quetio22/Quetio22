@@ -4,9 +4,9 @@
 </p>
 
 
-
+<p align="center>
 ## Je suis B4RN apprenti développeur pationner par l'informatique et le code. 
-
+  </p>
 
 
 
