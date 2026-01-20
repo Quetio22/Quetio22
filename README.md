@@ -3,6 +3,8 @@
   <img src="./banner.png" alt="Banner" width="800">
 </p>
 
+<br>
+<br>
 
 <h1>Je suis B4RN apprenti développeur pationner par l'informatique et le code.</h1> 
  
@@ -23,9 +25,14 @@
 <br>
 
 
-###  En ce moment
-- Approfondissement python et JS
-- Test Playwright 
+<div align="center">
+  <h2>En ce moment</h2>
+  <ul>
+    <li>Approfondissement python et JS</li>
+    <li>Testing Playwright </li>
+    
+  </ul>
+</div>
 
 <br>
 <br>
