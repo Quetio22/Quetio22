@@ -4,10 +4,10 @@
 </p>
 
 
-<p align="center>
 ## Je suis B4RN apprenti développeur pationner par l'informatique et le code. 
-  </p>
-
+ 
+- J'apprends différents languages informatique 
+-  Mon but : Devenir un développeur compétent 
 
 
 <div align="center">
