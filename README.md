@@ -8,12 +8,18 @@
  
 - J'apprends différents languages informatique
   
--  Mon but : Devenir un développeur compétent –––––
+-  Mon but : Devenir un développeur compétent
+  ---
+  
+<div align="center">
+  <h2>Philosophie</h2>
+  <ul>
+    <li>-Clean code > code rapide</li>
+    <li>-Comprendre avant d’utiliser</li>
+    <li>-Simplicité > complexité</li>
+  </ul>
+</div>
 
-###  Philosophie
-- Clean code > code rapide
-- Comprendre avant d’utiliser
-- Simplicité > complexité
 
 ###  En ce moment
 - Approfondissement python et JS
